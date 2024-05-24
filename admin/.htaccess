@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Private block"
+AuthUserFile "/home/s/sac.h18.ru/WWW/.htpasswd" 
+Require valid-user
